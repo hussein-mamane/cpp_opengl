@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/opengl_window_project.dir/src/main.cpp.o -o opengl_window_project  /usr/lib/x86_64-linux-gnu/libGLEW.so -lglfw /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so 

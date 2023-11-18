@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/housseinimdb/cpp_opengl/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/opengl_window_project.dir/src/main.cpp.o -c /home/housseinimdb/cpp_opengl/src/main.cpp",
+  "file": "/home/housseinimdb/cpp_opengl/src/main.cpp"
+}
+]

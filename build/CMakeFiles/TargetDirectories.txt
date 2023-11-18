@@ -1,0 +1,3 @@
+/home/housseinimdb/cpp_opengl/build/CMakeFiles/opengl_window_project.dir
+/home/housseinimdb/cpp_opengl/build/CMakeFiles/edit_cache.dir
+/home/housseinimdb/cpp_opengl/build/CMakeFiles/rebuild_cache.dir
